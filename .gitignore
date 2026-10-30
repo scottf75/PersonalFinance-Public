@@ -1,0 +1,22 @@
+config
+copilot-chat
+FileContentIndex
+v17
+.vscode
+DesignTimeBuild
+backend/PersonalFinance.API/obj/
+backend/PersonalFinance.API/bin/
+frontend/node_modules/
+.vs
+1
+# Environment variables
+frontend/dist
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+frontend/.env.development
+frontend/.env.production
+backend/PersonalFinance.API/appsettings.json
+backend/PersonalFinance.API/Certificates/certificate.pem
+backend/PersonalFinance.API/Certificates/private_key.pem

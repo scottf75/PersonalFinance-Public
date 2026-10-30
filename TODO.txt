@@ -1,0 +1,22 @@
+Add frontend to solution - DONE
+add to github - DONE
+add claude code access, maybe transfer computer? - DONE
+Add postgres db - DONE
+commit - DONE
+test Account - DONE
+Update front end for account - DONE
+update api to pull from local or prod urls - DONE
+create link on transactions page and pull in real transactions - DONE
+Add account links to left sidebar and create Quicken-style register view - DONE
+Add transaction AI categorization - DONE
+Add natural language search via AI - DONE
+Add Teller API to download transactions - DONE
+Add a bunch of typical categories - DONE
+Add grid like budget view - DONE
+Added theme/font - DONE
+Add the ability to login as a different user and get different data (and google auth) - DONE
+Deploy locally
+Deploy in the cloud
+Add unit/integrations tests
+Add fix to links on the left that will open in full screen or not, depending on what it is now
+Add the ability to switch the code to different frontend and backend language
